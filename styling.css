@@ -36,6 +36,6 @@
             a:visited{
                 color: blueviolet;
             }
-            .item:hover {
-                opacity: 0.5;
+            .item:hover ul,img,li {
+                opacity: 0.88;
             }
