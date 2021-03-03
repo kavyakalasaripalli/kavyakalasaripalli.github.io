@@ -1,0 +1,41 @@
+   .header{
+                font-family:Comic Sans MS;
+                background-image: url(https://i.ebayimg.com/00/s/NjAwWDYwMA==/z/keUAAOSwZpJgM-VL/$_10.JPG?set_id=880000500F);
+                      }
+            .item{
+                color: fuchsia;
+                font-family:Book Antiqua;
+                border:dashed;
+                display: flow-root;
+                justify-content: space-around;
+               padding: 15 px;
+               font-weight: 700;
+               font-size: 20 px;
+               background-color:#c1c0fa;
+               width: 650px;
+               height: 350px;
+            }
+            .grid{
+                color: darkblue;
+                font-family:Comic Sans MS;
+                font-weight: 700;
+                border: 2px solid #CA00FF;
+                border-radius: 50px;
+                border-width: thick;
+                font-size: 50 px;
+                background-image: url(https://i.ebayimg.com/00/s/NjAwWDYwMA==/z/keUAAOSwZpJgM-VL/$_10.JPG?set_id=880000500F);
+            }
+            body{
+                margin:0px;
+                background-image:url(https://i.ebayimg.com/00/s/NjAwWDYwMA==/z/keUAAOSwZpJgM-VL/$_10.JPG?set_id=880000500F)
+            
+            }
+            a:link{
+                color: aqua;
+            }
+            a:visited{
+                color: blueviolet;
+            }
+            .item:hover {
+                opacity: 0.5;
+            }
