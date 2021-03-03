@@ -39,6 +39,3 @@
             .item:hover ul,img,li,h1 {
                 opacity: 0.88;
             }
-            .item:hover {
-                background-color: crimson;
-            }
